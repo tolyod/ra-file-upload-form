@@ -21,7 +21,7 @@
     "prepublish": "npm run snyk-protect"
   },
   "devDependencies": {
-    "gh-pages": "^1.1.0"
+    "gh-pages": "^2.2.0"
   },
   "snyk": true
 }
