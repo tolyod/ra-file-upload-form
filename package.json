@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://tolyod.github.io/ra-file-upload-form/",
   "dependencies": {
-    "bootstrap": "^3.4.1",
+    "bootstrap": "^4.1.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.1",
     "react-scripts": "3.0.0",
