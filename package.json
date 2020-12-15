@@ -5,8 +5,8 @@
   "homepage": "http://tolyod.github.io/ra-file-upload-form/",
   "dependencies": {
     "bootstrap": "^3.4.1",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.1",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
     "react-scripts": "3.0.0",
     "snyk": "^1.228.0"
   },
